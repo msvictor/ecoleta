@@ -9,7 +9,7 @@
   <a href="https://rocketseat.com.br">
     <img alt="Credits Rocketseat" src="https://img.shields.io/badge/credits%20-Rocketseat-%237519C1">
   </a>
-   <a href="https://github.com/VictorGabrielMS">
+   <a href="https://github.com/msvictor">
     <img alt="Code by Victor Gabriel" src="https://img.shields.io/badge/code%20by-Victor Gabriel-%23E02041">
   </a>
 </p>
@@ -100,7 +100,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 1. Clone :
 
 ```sh
-  $ git clone https://github.com/victorgabrielms/ecoleta.git
+  $ git clone https://github.com/msvictor/ecoleta.git
 ```
 
 2. Execute the application:
